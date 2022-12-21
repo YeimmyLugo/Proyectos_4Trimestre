@@ -1,0 +1,89 @@
+.boton1 {
+    color: #fff !important;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    background: #318aac;
+    position: relative;
+    border: 2px solid #962727;
+    outline: 1px solid;
+    outline-color: rgba(255, 255, 255, 0.992);
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+    border-radius: 5px;
+  }
+
+#container{
+    background-image: linear-gradient(rgba(0, 255, 242, 0.527), rgba(224, 105, 161, 0.432)),
+                  url("../../media/examples/lizard.png");
+}
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #5774d4;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #6799e4}
+  
+  .button:active {
+    background-color: #822b85;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .button1{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #5774d4;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #6799e4}
+  
+  .button:active {
+    background-color: #822b85;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+.text1 {
+    font-size: large;
+    font-family: cursive;
+    text-decoration: darkslateblue;
+    font-size: 30;
+    color: rgb(41, 16, 204);
+}
+
+.text2 {
+    font-size: large;
+    font-family: cursive;
+    text-decoration: rgb(0, 0, 0);
+    font-size: 20;
+    color: rgb(0, 0, 0);
+}
+
+.textdj{
+    font-size: large;
+    font-family: cursive;
+    text-decoration: darkslateblue;
+    font-size: 30;
+    color: rgb(41, 16, 204);
+}
+

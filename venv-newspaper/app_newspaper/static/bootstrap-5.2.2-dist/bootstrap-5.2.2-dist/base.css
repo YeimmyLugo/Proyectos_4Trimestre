@@ -1,0 +1,12 @@
+#container1{
+    background-image: linear-gradient(rgba(19, 15, 247, 0.425), rgba(171, 63, 204, 0.493)),
+                  url("../../media/examples/lizard.png");
+}
+
+.text1 {
+    font-size: large;
+    font-family: cursive;
+    text-decoration: darkslateblue;
+    font-size: 30;
+    color: rgb(41, 16, 204);
+}

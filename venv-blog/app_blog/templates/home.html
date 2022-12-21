@@ -1,0 +1,12 @@
+{% extends 'base.html' %} 
+
+{% block content %} 
+    {% for post in post_list %} 
+        <div class="text2"> class="post-entry">
+            <h2><a href="">{{post.title}}</a></h2>
+            <img src="https://educacion30.b-cdn.net/wp-content/uploads/2017/06/lenguajes-programacion-978x652.jpg" alt="Paris" width="300" height="300">
+            <img src="https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq" alt="Paris" width="300" height="300">
+            <p>{{ post.body }}</p>
+        </div>
+    {% endfor %} 
+{% endblock content %}

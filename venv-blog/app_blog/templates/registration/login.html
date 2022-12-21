@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h2 class="text2">Login</h2>
+    <form method="post">
+        {% csrf_token %}
+       {{ form.as_p }}
+       <button type="submit" class="button">Login</button>
+    </form>
+      <img src="https://www.enter.co/wp-content/uploads/2021/07/19362653-768x432.jpg" alt="Paris" width="300" height="300" center>
+{% endblock content %}
