@@ -47,18 +47,30 @@
 ![image](https://user-images.githubusercontent.com/101755814/208848947-e84f5fc6-3c34-42be-81c1-e3062cfcfad2.png), ![image](https://user-images.githubusercontent.com/101755814/208848987-5bb7be5b-b3cc-41ba-81f1-34f05604975f.png), ![image](https://user-images.githubusercontent.com/101755814/208849019-6b5f29dd-d4ea-4d60-b687-ce154a484761.png).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # PROYECTO TIENDA DE MOTOS UTILIZANDO APIS
+
+- Inicialmente se mostrara la pagina de la lista de las motos existentes en la tienda.
+
+![image](https://user-images.githubusercontent.com/101755814/208849303-609f1dbe-f712-42d9-a57e-011a2dfb6699.png).
+
+- Como primera acción se creara una moto nueva, para esto se dara la referencia, marca, modelo, precio, imagen, y proveedor, se le dara al boton de post y este publicara esta moto, la cual una bvez creada aparecera en la lista principal de la tienda.
+
+![image](https://user-images.githubusercontent.com/101755814/208849653-6893262f-11ea-49d5-ad5a-c6e8d72879c2.png), ![image](https://user-images.githubusercontent.com/101755814/208849696-1abdd8ea-410a-4965-9dc8-c516f23baa78.png), ![image](https://user-images.githubusercontent.com/101755814/208849741-5944f78b-9923-4a35-abc9-bb993566d52c.png).
+
+- Como segunda acción se traera la moto numero 2 para editar ciertos datos de la moto, para eso se pediran los campos a editar, se le dara al boton put y este editara lo que el usuario quiera editar.
+
+![image](https://user-images.githubusercontent.com/101755814/208850066-5de7ec44-0786-4645-8ad1-c7679863beed.png), ![image](https://user-images.githubusercontent.com/101755814/208850103-23f4d70e-3629-449c-a1ad-42d6f04c6cb6.png).
+
+- Como tercera acción eliminaremos la moto numero 2 de la lista, le daremos click al boton Delete y confirmamos, despues de esto nos mostrara un mensaje de que esta moto ha sido eliminada exitosamente, y ya no sera visible en la lista principal de la tienda.
+
+![image](https://user-images.githubusercontent.com/101755814/208850355-090ea284-91e7-41c6-bdb1-ace48234440c.png), ![image](https://user-images.githubusercontent.com/101755814/208850446-99f1df6e-5cb9-4352-90a3-e62a6404085d.png).
+
+- Por ultimo si intentamos traer la moto que acabamos de eliminar (la moto #2) se mostrara un mensaje de que no existe en la tienda.
+
+![image](https://user-images.githubusercontent.com/101755814/208850687-a5ad9883-10a3-4708-bfb1-0cc9deb3f932.png).
+
+
+
+
+
+
