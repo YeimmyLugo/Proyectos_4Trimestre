@@ -22,6 +22,41 @@
 
 ![image](https://user-images.githubusercontent.com/101755814/208845242-d4cab8b5-d149-4411-b700-f8d175c157a9.png), ![image](https://user-images.githubusercontent.com/101755814/208845295-7c03caec-e60f-430f-b4db-6f893aef94e9.png).
 
+- Al ingresar en la cuenta se muestra la pagina principal que en este caso apareceran articulos diferentes creados por distintos autores, y en cada uno se muestra el titulo del articulo, autor, fecha en que fue escrito, el contenido del articulo, un boton que nos permite editar o eliminar y por ultimo si este articulo esta comentado o no.
+
+![image](https://user-images.githubusercontent.com/101755814/208846049-98a0cd24-f461-4e35-aaca-f56a44447e0b.png).
+
+- Al darle al boton de editar un articulo este mostrata la pagina de edicion en donde se podra editar lo que se quiera de este, tambien si asi se quiere se podra eliminar el articulo, esto siempre y cuando sea el mismo autor que lo creo ya que si es uno diferente este no permitira ni eliminar ni editar el articulo.
+
+![image](https://user-images.githubusercontent.com/101755814/208846425-63ec90a2-f368-4d13-bb5e-10d806c87503.png), ![image](https://user-images.githubusercontent.com/101755814/208846483-52c3c76d-53f9-46cf-aed7-c1f0c71c2812.png).
+
+- Cuando un articulo se acaba de editar, al guardar los cambios este muestra el articulo y despliega un apartado donde el usuario puede comentar este articulo, se guardan con el boton Save y se vuelve a la pagina principal de los articulos y por consiguiente en la pagina principal aparecen los cambios y si el articulo ha sido comentado o no.
+
+![image](https://user-images.githubusercontent.com/101755814/208846950-e8f8a019-1c3f-40e1-9b9b-a4ac68254f19.png).
+
+- En el apartado de NEW podemos encontrar la opción para agregar un articulo totalmente nuevo, el cual lleva un titulo y un contenido.
+
+![image](https://user-images.githubusercontent.com/101755814/208847155-09dd2d07-4738-4f55-a9c8-9212964f822e.png).
+
+- En la barra de navegacion se muestra el nombre del propietario de la cuenta a lo cual se despliegan 2 opciones, una para cambiar la contraseña, el cual permitira que el usuario pueda cambiar su contraseña, en cual se dara click y al realizar esta opción, se desplegara un pagina donde pedira contraseña antigua, la contraseña nueva y  una confirmación de la contraseña, por ultimo se dara change my password y la contraseña quedara reestablecida mostrando un mensaje de que esta se ha cambiado exitosamente.
+
+![image](https://user-images.githubusercontent.com/101755814/208847861-4c1c7a28-8af9-458f-b5b0-64c0507caf77.png), ![image](https://user-images.githubusercontent.com/101755814/208847892-5e5b92ae-9095-424f-95bf-3b829592dfdc.png), ![image](https://user-images.githubusercontent.com/101755814/208847978-227eeb80-b7a8-49b7-b430-47c1ad7553fa.png).
+
+- En la otra opcion (logout) se dara click y automaticamente cerrara la sesion del usuario y lo llevara a la pagina de inicio de sesion nuevamente. En este inicio de sesion hay otra opción la cual es "olvidaste la contraseña?" al darle click a este boton, llevara a la pagina de reestablecimiento, en donde pedira un correo electronico al cual enviar un email que permitira reestablecer la contraseña, mostrando un mensaje de que se a enviado el email para el reestablecimiento de la contraseña.
+
+![image](https://user-images.githubusercontent.com/101755814/208848947-e84f5fc6-3c34-42be-81c1-e3062cfcfad2.png), ![image](https://user-images.githubusercontent.com/101755814/208848987-5bb7be5b-b3cc-41ba-81f1-34f05604975f.png), ![image](https://user-images.githubusercontent.com/101755814/208849019-6b5f29dd-d4ea-4d60-b687-ce154a484761.png).
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
